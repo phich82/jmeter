@@ -1,0 +1,11 @@
+
+- Install java v+1.8
+- Set environment variable:
+	JAVA_HOME=<path_to_jdk[version]_folder>
+	add %JAVA_HOME%\bin; to PATH variable in system variable
+
+S1 - Setup Master
+	Add IP of remote system in jmeter.properities
+
+S2 - Create keystore file
+	Copy the generated file (rmi_keystore.jks) to all remote systems (bin folder)

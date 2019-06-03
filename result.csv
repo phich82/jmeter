@@ -1,0 +1,201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1559583472101,3012,HTTP Request,200,OK,192.168.0.108-Thread Group 1-2,text,true,,57398,119,12,12,http://lifecharger.org/,2226,0,249
+1559583474509,651,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-12,text,false,,852,119,14,14,http://lifecharger.org/,651,0,244
+1559583476598,689,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-17,text,false,,852,119,18,18,http://lifecharger.org/,689,0,235
+1559583475987,1300,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-15,text,false,,852,119,18,18,http://lifecharger.org/,1300,0,237
+1559583476294,993,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-16,text,false,,852,119,18,18,http://lifecharger.org/,993,0,231
+1559583477230,570,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-19,text,false,,852,119,16,16,http://lifecharger.org/,570,0,241
+1559583476894,1385,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-18,text,false,,852,119,17,17,http://lifecharger.org/,1385,0,230
+1559583477532,771,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-20,text,false,,852,119,16,16,http://lifecharger.org/,770,0,239
+1559583472395,6026,HTTP Request,200,OK,192.168.0.108-Thread Group 1-3,text,true,,57385,119,15,15,http://lifecharger.org/,5015,0,225
+1559583471988,7064,HTTP Request,200,OK,192.168.0.108-Thread Group 1-1,text,true,,57392,119,17,17,http://lifecharger.org/,6339,0,256
+1559583478129,1151,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-22,text,false,,852,119,16,16,http://lifecharger.org/,1151,0,249
+1559583478727,568,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-24,text,false,,852,119,15,15,http://lifecharger.org/,567,0,224
+1559583478428,876,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-23,text,false,,852,119,14,14,http://lifecharger.org/,876,0,255
+1559583479328,585,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-26,text,false,,852,119,15,15,http://lifecharger.org/,585,0,239
+1559583479049,1228,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-25,text,false,,852,119,16,16,http://lifecharger.org/,1228,0,238
+1559583479626,662,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-27,text,false,,852,119,15,15,http://lifecharger.org/,661,0,225
+1559583480523,741,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-30,text,false,,852,119,17,17,http://lifecharger.org/,741,0,242
+1559583479927,1337,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-28,text,false,,852,119,17,17,http://lifecharger.org/,1337,0,242
+1559583480823,634,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-31,text,false,,852,119,16,16,http://lifecharger.org/,633,0,256
+1559583481406,862,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-33,text,false,,852,119,17,17,http://lifecharger.org/,861,0,247
+1559583481695,573,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-34,text,false,,852,119,17,17,http://lifecharger.org/,573,0,236
+1559583481123,1147,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-32,text,false,,852,119,17,17,http://lifecharger.org/,1146,0,269
+1559583482323,553,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-36,text,false,,852,119,16,16,http://lifecharger.org/,553,0,231
+1559583482024,1222,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-35,text,false,,852,119,17,17,http://lifecharger.org/,1222,0,244
+1559583482621,639,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-37,text,false,,852,119,16,16,http://lifecharger.org/,639,0,254
+1559583472695,10658,HTTP Request,200,OK,192.168.0.108-Thread Group 1-4,text,true,,57405,119,15,15,http://lifecharger.org/,9701,0,228
+1559583483223,1044,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-39,text,false,,852,119,17,17,http://lifecharger.org/,1044,0,231
+1559583482921,1353,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-38,text,false,,852,119,16,16,http://lifecharger.org/,1353,0,228
+1559583480248,4026,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-29,text,false,,852,119,16,16,http://lifecharger.org/,4026,0,3257
+1559583483518,773,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-40,text,false,,852,119,14,14,http://lifecharger.org/,773,0,259
+1559583484117,575,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-42,text,false,,852,119,14,14,http://lifecharger.org/,574,0,238
+1559583484417,569,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-43,text,false,,852,119,14,14,http://lifecharger.org/,568,0,229
+1559583483817,1467,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-41,text,false,,852,119,14,14,http://lifecharger.org/,1467,0,223
+1559583484715,630,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-44,text,false,,852,119,14,14,http://lifecharger.org/,630,0,241
+1559583485612,672,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-47,text,false,,852,119,16,16,http://lifecharger.org/,672,0,224
+1559583485015,1275,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-45,text,false,,852,119,15,15,http://lifecharger.org/,1275,0,268
+1559583485314,977,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-46,text,false,,852,119,15,15,http://lifecharger.org/,977,0,242
+1559583486509,769,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-50,text,false,,852,119,16,16,http://lifecharger.org/,768,0,241
+1559583485911,1371,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-48,text,false,,852,119,15,15,http://lifecharger.org/,1371,0,275
+1559583486209,1080,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-49,text,false,,852,119,14,14,http://lifecharger.org/,1079,0,246
+1559583487108,1139,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-52,text,false,,852,119,16,16,http://lifecharger.org/,1138,0,245
+1559583486809,1439,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-51,text,false,,852,119,15,15,http://lifecharger.org/,1439,0,228
+1559583473292,14963,HTTP Request,200,OK,192.168.0.108-Thread Group 1-6,text,true,,57392,119,14,14,http://lifecharger.org/,14020,0,238
+1559583487407,855,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-53,text,false,,852,119,13,13,http://lifecharger.org/,855,0,255
+1559583472993,15294,HTTP Request,200,OK,192.168.0.108-Thread Group 1-5,text,true,,57391,119,12,12,http://lifecharger.org/,14274,0,235
+1559583487708,614,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-54,text,false,,852,119,12,12,http://lifecharger.org/,614,0,230
+1559583488007,1260,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-55,text,false,,852,119,14,14,http://lifecharger.org/,1260,0,239
+1559583488607,664,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-57,text,false,,852,119,13,13,http://lifecharger.org/,664,0,242
+1559583488305,982,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-56,text,false,,852,119,12,12,http://lifecharger.org/,982,0,241
+1559583489206,1328,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-59,text,false,,852,119,15,15,http://lifecharger.org/,1328,0,229
+1559583488904,1630,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-58,text,false,,852,119,15,15,http://lifecharger.org/,1630,0,249
+1559583489504,1031,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-60,text,false,,852,119,15,15,http://lifecharger.org/,1030,0,238
+1559583473590,16944,HTTP Request,200,OK,192.168.0.108-Thread Group 1-7,text,true,,57398,119,15,15,http://lifecharger.org/,15694,0,228
+1559583490105,1146,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-62,text,false,,852,119,13,13,http://lifecharger.org/,1146,0,426
+1559583490403,869,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-63,text,false,,852,119,12,12,http://lifecharger.org/,869,0,449
+1559583491303,960,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-66,text,false,,852,119,15,15,http://lifecharger.org/,960,0,239
+1559583491605,662,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-67,text,false,,852,119,14,14,http://lifecharger.org/,662,0,250
+1559583475087,17219,HTTP Request,200,OK,192.168.0.108-Thread Group 1-12,text,true,,57391,119,13,13,http://lifecharger.org/,16288,0,257
+1559583474189,18117,HTTP Request,200,OK,192.168.0.108-Thread Group 1-9,text,true,,57370,119,13,13,http://lifecharger.org/,16344,0,244
+1559583474489,17862,HTTP Request,200,OK,192.168.0.108-Thread Group 1-10,text,true,,57384,119,11,11,http://lifecharger.org/,16891,0,234
+1559583475688,16669,HTTP Request,200,OK,192.168.0.108-Thread Group 1-14,text,true,,57390,119,10,10,http://lifecharger.org/,15683,0,237
+1559583474787,18530,HTTP Request,200,OK,192.168.0.108-Thread Group 1-11,text,true,,57384,119,12,12,http://lifecharger.org/,17499,0,238
+1559583493398,861,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-73,text,false,,852,119,14,14,http://lifecharger.org/,861,0,232
+1559583493101,1173,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-72,text,false,,852,119,13,13,http://lifecharger.org/,1173,0,263
+1559583493699,611,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-74,text,false,,852,119,13,13,http://lifecharger.org/,611,0,229
+1559583494598,626,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-77,text,false,,852,119,15,15,http://lifecharger.org/,626,0,275
+1559583494298,980,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-76,text,false,,852,119,14,14,http://lifecharger.org/,979,0,258
+1559583493999,1289,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-75,text,false,,852,119,13,13,http://lifecharger.org/,1288,0,241
+1559583495496,777,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-80,text,false,,852,119,15,15,http://lifecharger.org/,777,0,244
+1559583475387,20898,HTTP Request,200,OK,192.168.0.108-Thread Group 1-13,text,true,,57383,119,14,14,http://lifecharger.org/,18899,0,244
+1559583495199,1086,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-79,text,false,,852,119,14,14,http://lifecharger.org/,1086,0,226
+1559583494898,1387,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-78,text,false,,852,119,14,14,http://lifecharger.org/,1387,0,228
+1559583477829,18512,HTTP Request,200,OK,192.168.0.108-Thread Group 1-21,text,true,,57391,119,11,11,http://lifecharger.org/,16506,0,253
+1559583496695,581,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-84,text,false,,852,119,13,13,http://lifecharger.org/,581,0,233
+1559583496098,1178,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-82,text,false,,852,119,13,13,http://lifecharger.org/,1178,0,252
+1559583496395,884,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-83,text,false,,852,119,11,11,http://lifecharger.org/,884,0,251
+1559583473889,23459,HTTP Request,200,OK,192.168.0.108-Thread Group 1-8,text,true,,57392,119,11,11,http://lifecharger.org/,22471,0,236
+1559583497616,566,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-87,text,false,,852,119,12,12,http://lifecharger.org/,566,0,228
+1559583497296,972,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-86,text,false,,852,119,12,12,http://lifecharger.org/,971,0,254
+1559583496996,1285,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-85,text,false,,852,119,11,11,http://lifecharger.org/,1285,0,276
+1559583498195,582,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-89,text,false,,852,119,11,11,http://lifecharger.org/,581,0,233
+1559583498494,765,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-90,text,false,,852,119,12,12,http://lifecharger.org/,764,0,237
+1559583498794,1448,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-91,text,false,,852,119,14,14,http://lifecharger.org/,1448,0,240
+1559583499094,1184,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-92,text,false,,852,119,13,13,http://lifecharger.org/,1184,0,273
+1559583499394,885,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-93,text,false,,852,119,13,13,http://lifecharger.org/,885,0,236
+1559583499993,1256,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-95,text,false,,852,119,15,15,http://lifecharger.org/,1256,0,232
+1559583500292,958,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-96,text,false,,852,119,15,15,http://lifecharger.org/,958,0,252
+1559583500591,666,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-97,text,false,,852,119,13,13,http://lifecharger.org/,665,0,227
+1559583500891,639,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-98,text,false,,852,119,13,13,http://lifecharger.org/,639,0,244
+1559583501193,1058,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-99,text,false,,852,119,12,12,http://lifecharger.org/,1058,0,232
+1559583501491,783,HTTP Request,500,Internal Server Error,192.168.0.108-Thread Group 1-100,text,false,,852,119,11,11,http://lifecharger.org/,782,0,244
+1559583491002,14789,HTTP Request,200,OK,192.168.0.108-Thread Group 1-65,text,true,,57391,119,10,10,http://lifecharger.org/,13364,0,230
+1559583490725,17524,HTTP Request,200,OK,192.168.0.108-Thread Group 1-64,text,true,,57384,119,9,9,http://lifecharger.org/,16561,0,365
+1559583489805,19182,HTTP Request,200,OK,192.168.0.108-Thread Group 1-61,text,true,,57391,119,8,8,http://lifecharger.org/,18466,0,226
+1559583492503,16730,HTTP Request,200,OK,192.168.0.108-Thread Group 1-70,text,true,,57392,119,7,7,http://lifecharger.org/,15781,0,241
+1559583492201,17809,HTTP Request,200,OK,192.168.0.108-Thread Group 1-69,text,true,,57384,119,6,6,http://lifecharger.org/,17044,0,242
+1559583492821,17205,HTTP Request,200,OK,192.168.0.108-Thread Group 1-71,text,true,,57398,119,5,5,http://lifecharger.org/,16472,0,230
+1559583491903,18135,HTTP Request,200,OK,192.168.0.108-Thread Group 1-68,text,true,,57363,119,4,4,http://lifecharger.org/,17382,0,237
+1559583495796,15175,HTTP Request,200,OK,192.168.0.108-Thread Group 1-81,text,true,,57383,119,3,3,http://lifecharger.org/,14458,0,249
+1559583497917,13324,HTTP Request,200,OK,192.168.0.108-Thread Group 1-88,text,true,,57370,119,2,2,http://lifecharger.org/,12551,0,223
+1559583499694,12351,HTTP Request,200,OK,192.168.0.108-Thread Group 1-94,text,true,,57384,119,1,1,http://lifecharger.org/,11596,0,252
+1559583475111,1000,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-14,text,false,,852,119,16,16,http://lifecharger.org/,1000,0,232
+1559583475417,694,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-15,text,false,,852,119,16,16,http://lifecharger.org/,694,0,226
+1559583474807,1325,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-13,text,false,,852,119,14,14,http://lifecharger.org/,1325,0,231
+1559583476008,570,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-17,text,false,,852,119,14,14,http://lifecharger.org/,569,0,239
+1559583476300,814,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-18,text,false,,852,119,15,15,http://lifecharger.org/,814,0,241
+1559583475700,1420,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-16,text,false,,852,119,15,15,http://lifecharger.org/,1420,0,232
+1559583477200,911,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-21,text,false,,852,119,17,17,http://lifecharger.org/,910,0,246
+1559583477512,602,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-22,text,false,,852,119,17,17,http://lifecharger.org/,601,0,239
+1559583476897,1229,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-20,text,false,,852,119,17,17,http://lifecharger.org/,1228,0,249
+1559583478121,624,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-24,text,false,,852,119,16,16,http://lifecharger.org/,624,0,262
+1559583478421,557,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-25,text,false,,852,119,15,15,http://lifecharger.org/,556,0,230
+1559583477825,1286,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-23,text,false,,852,119,15,15,http://lifecharger.org/,1285,0,228
+1559583479310,578,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-28,text,false,,852,119,16,16,http://lifecharger.org/,578,0,232
+1559583478710,1376,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-26,text,false,,852,119,16,16,http://lifecharger.org/,1375,0,233
+1559583479020,1068,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-27,text,false,,852,119,16,16,http://lifecharger.org/,1067,0,233
+1559583479621,629,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-29,text,false,,852,119,15,15,http://lifecharger.org/,629,0,228
+1559583479906,604,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-30,text,false,,852,119,15,15,http://lifecharger.org/,603,0,251
+1559583480507,584,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-32,text,false,,852,119,15,15,http://lifecharger.org/,583,0,230
+1559583471523,9582,HTTP Request,200,OK,192.168.0.107-Thread Group 1-2,text,true,,57385,119,16,16,http://lifecharger.org/,7660,0,231
+1559583481427,647,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-35,text,false,,852,119,17,17,http://lifecharger.org/,647,0,253
+1559583481117,975,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-34,text,false,,852,119,17,17,http://lifecharger.org/,975,0,247
+1559583481708,1382,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-36,text,false,,852,119,18,18,http://lifecharger.org/,1382,0,235
+1559583482007,1099,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-37,text,false,,852,119,17,17,http://lifecharger.org/,1098,0,238
+1559583482305,806,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-38,text,false,,852,119,17,17,http://lifecharger.org/,806,0,233
+1559583483217,871,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-41,text,false,,852,119,18,18,http://lifecharger.org/,870,0,228
+1559583483507,586,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-42,text,false,,852,119,18,18,http://lifecharger.org/,585,0,227
+1559583482605,1492,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-39,text,false,,852,119,19,19,http://lifecharger.org/,1492,0,242
+1559583482906,1209,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-40,text,false,,852,119,17,17,http://lifecharger.org/,1209,0,239
+1559583484410,705,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-45,text,false,,852,119,18,18,http://lifecharger.org/,705,0,229
+1559583483814,1363,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-43,text,false,,852,119,17,17,http://lifecharger.org/,1363,0,263
+1559583484116,1063,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-44,text,false,,852,119,17,17,http://lifecharger.org/,1063,0,252
+1559583471449,13737,HTTP Request,200,OK,192.168.0.107-Thread Group 1-1,text,true,,57385,119,17,17,http://lifecharger.org/,12767,0,296
+1559583485296,796,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-48,text,false,,852,119,17,17,http://lifecharger.org/,796,0,234
+1559583485027,1066,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-47,text,false,,852,119,17,17,http://lifecharger.org/,1065,0,251
+1559583486210,863,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-51,text,false,,852,119,18,18,http://lifecharger.org/,862,0,231
+1559583485905,1170,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-50,text,false,,852,119,18,18,http://lifecharger.org/,1169,0,249
+1559583487454,635,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-55,text,false,,852,119,20,20,http://lifecharger.org/,635,0,228
+1559583471813,16287,HTTP Request,200,OK,192.168.0.107-Thread Group 1-3,text,true,,57385,119,19,19,http://lifecharger.org/,15346,0,226
+1559583487094,1006,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-54,text,false,,852,119,19,19,http://lifecharger.org/,1006,0,242
+1559583488039,1030,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-57,text,false,,852,119,20,20,http://lifecharger.org/,1029,0,226
+1559583487705,1431,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-56,text,false,,852,119,20,20,http://lifecharger.org/,1430,0,245
+1559583488345,854,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-58,text,false,,852,119,20,20,http://lifecharger.org/,854,0,247
+1559583488940,588,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-60,text,false,,852,119,18,18,http://lifecharger.org/,587,0,261
+1559583488643,1423,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-59,text,false,,852,119,19,19,http://lifecharger.org/,1422,0,229
+1559583472111,17983,HTTP Request,200,OK,192.168.0.107-Thread Group 1-4,text,true,,57392,119,18,18,http://lifecharger.org/,17087,0,228
+1559583489368,727,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-61,text,false,,852,119,18,18,http://lifecharger.org/,726,0,236
+1559583472414,17730,HTTP Request,200,OK,192.168.0.107-Thread Group 1-5,text,true,,57382,119,17,17,http://lifecharger.org/,16724,0,235
+1559583472710,17457,HTTP Request,200,OK,192.168.0.107-Thread Group 1-6,text,true,,57398,119,16,16,http://lifecharger.org/,16484,0,232
+1559583473304,17591,HTTP Request,200,OK,192.168.0.107-Thread Group 1-8,text,true,,57384,119,17,17,http://lifecharger.org/,16807,0,244
+1559583490437,626,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-65,text,false,,852,119,17,17,http://lifecharger.org/,626,0,259
+1559583490132,938,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-64,text,false,,852,119,17,17,http://lifecharger.org/,937,0,243
+1559583473031,18782,HTTP Request,200,OK,192.168.0.107-Thread Group 1-7,text,true,,57377,119,17,17,http://lifecharger.org/,18044,0,232
+1559583473909,17957,HTTP Request,200,OK,192.168.0.107-Thread Group 1-10,text,true,,57383,119,16,16,http://lifecharger.org/,17175,0,270
+1559583474247,17749,HTTP Request,200,OK,192.168.0.107-Thread Group 1-11,text,true,,57384,119,16,16,http://lifecharger.org/,16815,0,235
+1559583491923,1167,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-70,text,false,,852,119,18,18,http://lifecharger.org/,1166,0,265
+1559583492226,866,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-71,text,false,,852,119,18,18,http://lifecharger.org/,866,0,258
+1559583492524,594,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-72,text,false,,852,119,16,16,http://lifecharger.org/,594,0,239
+1559583492825,1275,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-73,text,false,,852,119,19,19,http://lifecharger.org/,1275,0,233
+1559583493451,649,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-75,text,false,,852,119,19,19,http://lifecharger.org/,649,0,228
+1559583493125,980,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-74,text,false,,852,119,19,19,http://lifecharger.org/,980,0,254
+1559583494327,782,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-78,text,false,,852,119,19,19,http://lifecharger.org/,781,0,231
+1559583494028,1081,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-77,text,false,,852,119,19,19,http://lifecharger.org/,1080,0,231
+1559583473610,21572,HTTP Request,200,OK,192.168.0.107-Thread Group 1-9,text,true,,57405,119,17,17,http://lifecharger.org/,20514,0,233
+1559583494917,1183,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-80,text,false,,852,119,19,19,http://lifecharger.org/,1183,0,256
+1559583495252,849,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-81,text,false,,852,119,19,19,http://lifecharger.org/,849,0,232
+1559583495512,656,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-82,text,false,,852,119,18,18,http://lifecharger.org/,655,0,241
+1559583496414,687,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-85,text,false,,852,119,20,20,http://lifecharger.org/,686,0,245
+1559583496110,1002,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-84,text,false,,852,119,19,19,http://lifecharger.org/,1001,0,264
+1559583495817,1296,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-83,text,false,,852,119,19,19,http://lifecharger.org/,1295,0,280
+1559583497020,1045,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-87,text,false,,852,119,20,20,http://lifecharger.org/,1045,0,246
+1559583497308,761,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-88,text,false,,852,119,20,20,http://lifecharger.org/,760,0,230
+1559583497610,605,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-89,text,false,,852,119,19,19,http://lifecharger.org/,605,0,234
+1559583480230,18832,HTTP Request,200,OK,192.168.0.107-Thread Group 1-31,text,true,,57398,119,20,20,http://lifecharger.org/,16944,0,244
+1559583498505,597,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-92,text,false,,852,119,20,20,http://lifecharger.org/,597,0,224
+1559583498212,890,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-91,text,false,,852,119,20,20,http://lifecharger.org/,890,0,251
+1559583476613,22513,HTTP Request,200,OK,192.168.0.107-Thread Group 1-19,text,true,,57390,119,18,18,http://lifecharger.org/,21529,0,226
+1559583480817,18379,HTTP Request,200,OK,192.168.0.107-Thread Group 1-33,text,true,,57384,119,17,17,http://lifecharger.org/,17392,0,226
+1559583499107,967,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-94,text,false,,852,119,19,19,http://lifecharger.org/,966,0,244
+1559583499415,660,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-95,text,false,,852,119,19,19,http://lifecharger.org/,659,0,233
+1559583500008,1067,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-97,text,false,,852,119,20,20,http://lifecharger.org/,1066,0,235
+1559583500308,767,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-98,text,false,,852,119,20,20,http://lifecharger.org/,766,0,229
+1559583499705,1377,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-96,text,false,,852,119,20,20,http://lifecharger.org/,1376,0,228
+1559583484697,16467,HTTP Request,200,OK,192.168.0.107-Thread Group 1-46,text,true,,57383,119,17,17,http://lifecharger.org/,15519,0,227
+1559583500903,1168,HTTP Request,500,Internal Server Error,192.168.0.107-Thread Group 1-100,text,false,,852,119,16,16,http://lifecharger.org/,1167,0,249
+1559583486513,15676,HTTP Request,200,OK,192.168.0.107-Thread Group 1-52,text,true,,57398,119,15,15,http://lifecharger.org/,14632,0,230
+1559583486845,16360,HTTP Request,200,OK,192.168.0.107-Thread Group 1-53,text,true,,57398,119,14,14,http://lifecharger.org/,15330,0,267
+1559583490734,14419,HTTP Request,200,OK,192.168.0.107-Thread Group 1-66,text,true,,57391,119,13,13,http://lifecharger.org/,13467,0,242
+1559583489836,16250,HTTP Request,200,OK,192.168.0.107-Thread Group 1-63,text,true,,57384,119,12,12,http://lifecharger.org/,15262,0,231
+1559583485608,20538,HTTP Request,200,OK,192.168.0.107-Thread Group 1-49,text,true,,57390,119,11,11,http://lifecharger.org/,19539,0,231
+1559583491327,15772,HTTP Request,200,OK,192.168.0.107-Thread Group 1-68,text,true,,57398,119,10,10,http://lifecharger.org/,14823,0,261
+1559583489677,18454,HTTP Request,200,OK,192.168.0.107-Thread Group 1-62,text,true,,57391,119,9,9,http://lifecharger.org/,17514,0,250
+1559583491649,17266,HTTP Request,200,OK,192.168.0.107-Thread Group 1-69,text,true,,57392,119,8,8,http://lifecharger.org/,16509,0,247
+1559583491036,18103,HTTP Request,200,OK,192.168.0.107-Thread Group 1-67,text,true,,57390,119,7,7,http://lifecharger.org/,17192,0,255
+1559583496709,13208,HTTP Request,200,OK,192.168.0.107-Thread Group 1-86,text,true,,57397,119,6,6,http://lifecharger.org/,12472,0,229
+1559583493729,16214,HTTP Request,200,OK,192.168.0.107-Thread Group 1-76,text,true,,57384,119,5,5,http://lifecharger.org/,15487,0,234
+1559583494618,15382,HTTP Request,200,OK,192.168.0.107-Thread Group 1-79,text,true,,57392,119,4,4,http://lifecharger.org/,14582,0,267
+1559583498810,12137,HTTP Request,200,OK,192.168.0.107-Thread Group 1-93,text,true,,57392,119,3,3,http://lifecharger.org/,11401,0,232
+1559583500603,10408,HTTP Request,200,OK,192.168.0.107-Thread Group 1-99,text,true,,57383,119,2,2,http://lifecharger.org/,9601,0,253
+1559583497911,13187,HTTP Request,200,OK,192.168.0.107-Thread Group 1-90,text,true,,57383,119,1,1,http://lifecharger.org/,12205,0,258
