@@ -1,11 +1,38 @@
 
-- Install java v+1.8
-- Set environment variable:
-	JAVA_HOME=<path_to_jdk[version]_folder>
-	add %JAVA_HOME%\bin; to PATH variable in system variable
+Required:
+	- Install java v+1.8
+	- Set environment variable:
+		+ JAVA_HOME=<path_to_jdk[version]_folder>
+		+ add %JAVA_HOME%\bin; to PATH variable in system variable
+	- Turn off Firewall, Antivirus...
+	- Run on same network (LAN better WIFI)
+	- All systems must be same subnet
 
-S1 - Setup Master
-	Add IP of remote system in jmeter.properities
 
-S2 - Create keystore file
-	Copy the generated file (rmi_keystore.jks) to all remote systems (bin folder)
+
+S1 - Setup Master, slaves
+	Add IP of remote system in jmeter.properities:
+		remote_hosts=master_ip,slave1_ip,slave2_ip,slave3_ip,slave4_ip,...
+		ex: remote_hosts=192.168.0.107,192.168.0.108
+
+S2 - If no use ssl (creare keystore file):
+	 Open user.properties file, set 'server.rmi.ssl.disable=true'
+   - If use ssl (create keystore file):
+     + Run create-rmi-keystore.bat/create-rmi-keystore.sh
+	   If any error (keytool), set full path to keytool.exe (in jre). Run again.
+	 + Copy the generated file (rmi_keystore.jks) to all remote systems (bin folder)
+	 
+S3 - Run jmeter-server
+	 + Click on jmeter-server.bat for start master/slave servers
+	 + If any error about JMETER_HOME, we will do:
+	   Open jmeter-server.bat, add more line 'set JMETER_HOME=<path_to_jmeter_root_folder'
+	   
+	   Note: JMETER_HOME=C:\Users\PC-2018\Desktop\apache-jmeter-5.1.1
+	 
+S4 - Run GUI/CLI jmeter
+	 + On GUI, select Run > Remote Start All
+	 
+	 + On CLI, run command:
+	   sh <JMETER_HOME>/bin/jmeter.sh -n -t <JMX_FILE> -l <RESULT_FILE> -e -o <REPORT_RESULT_FOLDER> -R <REMOTE_HOSTS>
+	   
+	   Note: REMOTE_HOSTS=master_ip,slave1_ip,slave2_ip,slave3_ip
